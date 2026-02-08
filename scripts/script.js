@@ -9,7 +9,7 @@ const cardsList = document.querySelector('.content__list');
 const cardsContainer = document.querySelector('.content__list-container');
 const videoContainer = document.querySelector('.result__video-container');
 const videoElement = document.querySelector('.result__video');
-const form = document.querySelector('form');
+const form = document.querySelector('.search-form');
 
 /* ТЕМПЛЕЙТЫ */
 const cardTmp = document.querySelector('.cards-list-item-template');
